@@ -1,0 +1,30 @@
+/* #EMOJIFY #BY #XENONNSMB!!!!! */
+/* Made sarcastically at xenonnsmb.com */
+* {
+	font-family:"Comic Sans MS", "Papyrus" !important;
+	font-size:30px !important;
+	background-color:#FF009E !important;
+	font-weight:bold !important;
+	text-transform:lowercase !important;
+}
+p:before {
+	content:"😄 😊 😃" !important;
+}
+*:before {
+	content:"😄" !important;
+}
+p:after {
+	content:"💯 💯" !important;
+}
+*:hover {
+	content:"💯 😄" !important;
+}
+[src],[href] {
+	content: "💯 😄";
+	position: fixed !important;
+	left: 84px !important;
+	bottom: 23% !important;
+}
+:first-line:before {
+	content:"#";
+}

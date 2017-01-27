@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Perispin</title>
+<style>
+	body {
+		background-color:black;
+	}
+	#perispin-video {
+		width:100%;
+		height:100%;
+	}
+	#text {
+		color:white;
+		position:relative;
+		font-family:Lucida Grande, Lucida Sans Unicode, Lucida Sans, DejaVu Sans, Verdana," sans-serif"
+	}
+	</style>
+	<script>
+	x = 0;
+		function update() {
+			x = x + 1;
+			document.getElementById("text").innerHTML = "You've Perispinned " + x + " Times";
+}
+		function go() {
+			document.getElementById("perispin-audio").play();
+			document.getElementById("perispin-video").play();
+			setInterval(update, 1000);
+			gobutton = document.getElementById("button");
+			document.body.removeChild(gobutton);
+			document.getElementById("perispin-video").style.display = "inherit";
+			update();
+		}
+
+	</script>
+</head>
+<body>
+<button id="button" onClick="go()">GO</button>
+<h3 id="text"></h3>
+<video style="display:none;" loop playsinline id="perispin-video">
+	<source src="video.mp4" type="video/mp4">
+</video>
+<audio loop id="perispin-audio">
+	<source src="audio.mp3" type="audio/mpeg">
+</audio>
+<script>
+	</script>
+</body>
+</html>

@@ -1,0 +1,250 @@
+
+
+
+materialPath: E:\SteamGames\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Xenon\Documents\xenonnsmb.github.io\duck_quackscope.vmf
+Patching WVT material: maps/duck_quackscope/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Xenon\Documents\xenonnsmb.github.io\duck_quackscope.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4820 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 31 texinfos to 16
+Reduced 4 texdatas to 3 (117 bytes to 96)
+Writing C:\Users\Xenon\Documents\xenonnsmb.github.io\duck_quackscope.bsp
+Wrote ZIP buffer, estimated size 106386, actual size 106038
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\xenon\documents\xenonnsmb.github.io\duck_quackscope.bsp
+reading c:\users\xenon\documents\xenonnsmb.github.io\duck_quackscope.prt
+  37 portalclusters
+  82 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1333
+Average clusters visible: 36
+Building PAS...
+Average clusters audible: 37
+visdatasize:670  compressed from 592
+writing c:\users\xenon\documents\xenonnsmb.github.io\duck_quackscope.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\xenon\documents\xenonnsmb.github.io\duck_quackscope.bsp
+359 faces
+1438098 square feet [207086208.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+359 patches before subdivision
+25577 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4438825, max 471
+transfer lists:  33.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0134 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 11/8192          132/98304    ( 0.1%) 
+brushsides              66/65536         528/524288   ( 0.1%) 
+planes                 140/65536        2800/1310720  ( 0.2%) 
+vertexes               435/65536        5220/786432   ( 0.7%) 
+nodes                  127/65536        4064/2097152  ( 0.2%) 
+texinfos                16/12288        1152/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  359/65536       20104/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               34/65536        1904/3670016  ( 0.1%) 
+leaves                 132/65536        4224/2097152  ( 0.2%) 
+leaffaces              419/65536         838/131072   ( 0.6%) 
+leafbrushes             71/65536         142/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1666/512000       6664/2048000  ( 0.3%) 
+edges                  850/256000       3400/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              9/32768          90/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           108/65536         216/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      750928/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         670/16777216 ( 0.0%) 
+entdata               [variable]       10249/393216   ( 2.6%) 
+LDR ambient table      132/65536         528/262144   ( 0.2%) 
+HDR ambient table      132/65536         528/262144   ( 0.2%) 
+LDR leaf ambient        55/65536        1540/1835008  ( 0.1%) 
+HDR leaf ambient       132/65536        3696/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106038/0        ( 0.0%) 
+physics               [variable]        4820/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 812
+Writing c:\users\xenon\documents\xenonnsmb.github.io\duck_quackscope.bsp
+1 second elapsed
+
+
+
+materialPath: E:\SteamGames\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Xenon\Documents\xenonnsmb.github.io\duck_quackscope.vmf
+Patching WVT material: maps/duck_quackscope/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Xenon\Documents\xenonnsmb.github.io\duck_quackscope.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (4820 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 31 texinfos to 16
+Reduced 4 texdatas to 3 (117 bytes to 96)
+Writing C:\Users\Xenon\Documents\xenonnsmb.github.io\duck_quackscope.bsp
+Wrote ZIP buffer, estimated size 106386, actual size 106038
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\xenon\documents\xenonnsmb.github.io\duck_quackscope.bsp
+reading c:\users\xenon\documents\xenonnsmb.github.io\duck_quackscope.prt
+  37 portalclusters
+  82 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 1333
+Average clusters visible: 36
+Building PAS...
+Average clusters audible: 37
+visdatasize:670  compressed from 592
+writing c:\users\xenon\documents\xenonnsmb.github.io\duck_quackscope.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\xenon\documents\xenonnsmb.github.io\duck_quackscope.bsp
+359 faces
+1438098 square feet [207086208.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+359 patches before subdivision
+25577 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4438825, max 471
+transfer lists:  33.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0135 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   4/1024          192/49152    ( 0.4%) 
+brushes                 11/8192          132/98304    ( 0.1%) 
+brushsides              66/65536         528/524288   ( 0.1%) 
+planes                 140/65536        2800/1310720  ( 0.2%) 
+vertexes               435/65536        5220/786432   ( 0.7%) 
+nodes                  127/65536        4064/2097152  ( 0.2%) 
+texinfos                16/12288        1152/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  359/65536       20104/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               34/65536        1904/3670016  ( 0.1%) 
+leaves                 132/65536        4224/2097152  ( 0.2%) 
+leaffaces              419/65536         838/131072   ( 0.6%) 
+leafbrushes             71/65536         142/131072   ( 0.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1666/512000       6664/2048000  ( 0.3%) 
+edges                  850/256000       3400/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              9/32768          90/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           108/65536         216/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      750928/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         670/16777216 ( 0.0%) 
+entdata               [variable]       10249/393216   ( 2.6%) 
+LDR ambient table      132/65536         528/262144   ( 0.2%) 
+HDR ambient table      132/65536         528/262144   ( 0.2%) 
+LDR leaf ambient        55/65536        1540/1835008  ( 0.1%) 
+HDR leaf ambient       132/65536        3696/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106038/0        ( 0.0%) 
+physics               [variable]        4820/4194304  ( 0.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 812
+Writing c:\users\xenon\documents\xenonnsmb.github.io\duck_quackscope.bsp
+1 second elapsed
