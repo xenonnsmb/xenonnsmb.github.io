@@ -38,3 +38,10 @@
 		position:absolute;
 		font-family:"Source Code Pro";
 	}
+
+	a {
+	font-family: 'Source Code Pro';
+	font-style: normal;
+	font-weight: 400;
+	color:skyblue;
+	}
