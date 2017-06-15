@@ -1,0 +1,47 @@
+	@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+	body{background-color:black;}
+	.pagetitle{
+	font-size: 50px;
+	font-family: 'Source Code Pro';
+	font-style: normal;
+	font-weight: 400;
+	color: white;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	top: 10%;
+	margin-top: -3px;
+	text-shadow: 0 0 10px rgba(131,246,228,1);
+}
+	@keyframes changeshadow {
+		from {text-shadow: 0 0 10px rgba(131,246,228,1);}
+		to {text-shadow: 0 10px 40px rgba(131,246,228,1);}
+	}
+.pagetitle:hover {
+	animation-name: changeshadow;
+	animation-duration: 0.5s;
+	animation-iteration-count:infinite;
+	animation-direction:alternate;
+    }
+	body {
+	font-family: 'Source Code Pro';
+	font-style: normal;
+	font-weight: 400;
+	color:white;
+	}
+	#footer {
+		text-align:center;
+		text-shadow: 0 2px 3px rgba(131,246,228,1);
+	}
+	.backarrow {
+		position:relative;
+		font-family:"Source Code Pro";
+	}
+
+	a {
+	font-family: 'Source Code Pro';
+	font-style: normal;
+	font-weight: 400;
+	color:skyblue;
+	}
