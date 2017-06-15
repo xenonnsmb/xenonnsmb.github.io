@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://xenonnsmb.com/blog/</loc>
+    <loc>http://xenonnsmb.com/</loc>
+    <lastmod>2017-06-15T12:23:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xenonnsmb.com/2017/06/15/why-super-mario-odyssey-is-going-to-be-the-game-that-revives-sandbox-platformers/</loc>
+    <lastmod>2017-06-15T12:23:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xenonnsmb.com/2016/12/22/on-pok%C3%A9mon-prism-and-fan-made-rom-hacks/</loc>
     <lastmod>2016-12-22T10:16:09-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://xenonnsmb.com/blog/2016/12/22/on-pok%C3%A9mon-prism-and-fan-made-rom-hacks/</loc>
-    <lastmod>2016-12-22T10:16:09-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://xenonnsmb.com/blog/about-this-blog/</loc>
-    <lastmod>2016-12-04T08:51:26-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://xenonnsmb.com/blog/2016/12/03/hello-world/</loc>
+    <loc>http://xenonnsmb.com/2016/12/03/hello-world/</loc>
     <lastmod>2016-12-03T21:18:57-06:00</lastmod>
   </url>
   

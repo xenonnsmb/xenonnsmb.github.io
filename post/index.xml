@@ -2,19 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on xenonnsmb</title>
-    <link>http://xenonnsmb.com/blog/post/index.xml</link>
+    <link>http://xenonnsmb.com/post/index.xml</link>
     <description>Recent content in Post-rsses on xenonnsmb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Dec 2016 10:16:09 -0600</lastBuildDate>
-    <atom:link href="http://xenonnsmb.com/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jun 2017 12:23:49 -0500</lastBuildDate>
+    <atom:link href="http://xenonnsmb.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why Super Mario Odyssey is going to be the game that revives sandbox platformers</title>
+      <link>http://xenonnsmb.com/2017/06/15/why-super-mario-odyssey-is-going-to-be-the-game-that-revives-sandbox-platformers/</link>
+      <pubDate>Thu, 15 Jun 2017 12:23:49 -0500</pubDate>
+      
+      <guid>http://xenonnsmb.com/2017/06/15/why-super-mario-odyssey-is-going-to-be-the-game-that-revives-sandbox-platformers/</guid>
+      <description>&lt;p&gt;In 1996, Nintendo released the &lt;s&gt;Ultra 64&lt;/s&gt; Nintendo 64, and alongside it came Super Mario 64, a revolutionary game. It threw you into a world filled with smaller worlds, each one an open sandbox with tons of things to do in any order. There were hidden missions, 100-coin stars, and lots more. It was amazing.&lt;/p&gt;
+
+&lt;p&gt;Then Super Mario Sunshine refined the level design. It shifted the focus. You no longer had the ability to do things the way you wanted; everything had a linear order to follow. You had to collect the &amp;ldquo;Shine Sprites&amp;rdquo; in the order the game wanted you to. But it gave you more freedom in how to approach the levels, with more moves and a super-cool water jetpack. Galaxy and Galaxy 2 completed the linear transition by turning each level into a series of loosely connected planets, preventing you from returning after continuing on. That isn&amp;rsquo;t an inherently bad thing, and it allowed for more story than previous games.&lt;/p&gt;
+
+&lt;p&gt;Super Mario 3D Land/World refined the level design to be focused and straightforward. At this point, sandbox platformers like Mario 64 and Banjo-Kazooie were pretty much dead. Level design in 3D games is complicated, and easier to do when you know exactly what the player will be doing at any particular moment in time. But it looks like Super Mario Odyssey is changing that. It&amp;rsquo;s going back to the N64 formula of &amp;ldquo;loosely connected slices of land filled with things to do&amp;rdquo;. There are 100 purple coins in each level. There are various &amp;ldquo;Power Moons&amp;rdquo; to collect, and collecting one won&amp;rsquo;t boot you out of the level. You can find a hidden moon in a girder, get a band together, or just run around getting coins. You can do whatever, whenever. And that kind of freedom hasn&amp;rsquo;t been granted in a Mario game in so long. It&amp;rsquo;s about time we go back to sandbox games.&lt;/p&gt;
+
+&lt;p&gt;If you haven&amp;rsquo;t already seen the E3 trailer for Super Mario Odyssey, go watch it:&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/wGQHQc_3ycE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Nintendo is bringing back a kind of game that we haven&amp;rsquo;t seen in a while. And it makes sense, with the new popularity of open-world games. This game is giving its players the freedom that&amp;rsquo;s been taken away from them forever. And that&amp;rsquo;s why I&amp;rsquo;m so hyped for this game.&lt;/p&gt;
+
+&lt;p&gt;(disclaimer: if you disagree with me it doesn&amp;rsquo;t matter too much, this is just a &amp;ldquo;i&amp;rsquo;m really hyped&amp;rdquo; piece.)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On Pokémon Prism, and fan-made ROM hacks</title>
-      <link>http://xenonnsmb.com/blog/2016/12/22/on-pok%C3%A9mon-prism-and-fan-made-rom-hacks/</link>
+      <link>http://xenonnsmb.com/2016/12/22/on-pok%C3%A9mon-prism-and-fan-made-rom-hacks/</link>
       <pubDate>Thu, 22 Dec 2016 10:16:09 -0600</pubDate>
       
-      <guid>http://xenonnsmb.com/blog/2016/12/22/on-pok%C3%A9mon-prism-and-fan-made-rom-hacks/</guid>
+      <guid>http://xenonnsmb.com/2016/12/22/on-pok%C3%A9mon-prism-and-fan-made-rom-hacks/</guid>
       <description>
 
 &lt;h1 id=&#34;what-happened&#34;&gt;What happened?&lt;/h1&gt;
@@ -32,7 +54,7 @@
 &lt;p&gt;Even though Nintendo has every right to do this, that doesn&amp;rsquo;t change the fact that it&amp;rsquo;s anti-consumer. Countless other companies are fine with modding or hacking, and some of them even embrace it (like Valve. Most of their franchises are Half-Life mods that they bought and remade.) Nintendo may make great games, but they sure have a thing for destroying people&amp;rsquo;s work. If you look at other fangames that they took down, like Another Metroid 2 Remake, it makes sense because Metroid 2 is still a game Nintendo&amp;rsquo;s selling on the eShop. But games like Uranium and Prism aren&amp;rsquo;t hurting Nintendo&amp;rsquo;s sales, they aren&amp;rsquo;t painting Nintendo in a negative light, so why does Nintendo always do this? Now all of the dev team&amp;rsquo;s work was for nothing.&lt;/p&gt;
 
 &lt;p&gt;&amp;hellip;Oh, who am I kidding. The source code already leaked online.
-&lt;img src=&#34;http://xenonnsmb.com/blog/blog/img/prism2.png&#34; title=&#34;Pokémon Prism on OpenEmu&#34; alt=&#34;Pokémon Prism title screen&#34; width=&#34;95%&#34; height=&#34;95%&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;http://xenonnsmb.com/blog/img/prism2.png&#34; title=&#34;Pokémon Prism on OpenEmu&#34; alt=&#34;Pokémon Prism title screen&#34; width=&#34;95%&#34; height=&#34;95%&#34;&gt;&lt;/p&gt;
 
 &lt;h6 id=&#34;this-is-an-opinion-piece-if-you-do-not-agree-it-s-not-the-end-of-the-world&#34;&gt;This is an opinion piece. If you do not agree it&amp;rsquo;s not the end of the world.&lt;/h6&gt;
 </description>
@@ -40,10 +62,10 @@
     
     <item>
       <title>Hello, world!</title>
-      <link>http://xenonnsmb.com/blog/2016/12/03/hello-world/</link>
+      <link>http://xenonnsmb.com/2016/12/03/hello-world/</link>
       <pubDate>Sat, 03 Dec 2016 21:18:57 -0600</pubDate>
       
-      <guid>http://xenonnsmb.com/blog/2016/12/03/hello-world/</guid>
+      <guid>http://xenonnsmb.com/2016/12/03/hello-world/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Welcome to my blog.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
