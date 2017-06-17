@@ -6,8 +6,24 @@
     <description>Recent content on xenonnsmb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jun 2017 12:23:49 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jun 2017 11:25:11 -0500</lastBuildDate>
     <atom:link href="http://xenonnsmb.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>WikiPurge - a bookmarklet to purge the cache of MediaWiki pages</title>
+      <link>http://xenonnsmb.com/2017/06/17/wikipurge---a-bookmarklet-to-purge-the-cache-of-mediawiki-pages/</link>
+      <pubDate>Sat, 17 Jun 2017 11:25:11 -0500</pubDate>
+      
+      <guid>http://xenonnsmb.com/2017/06/17/wikipurge---a-bookmarklet-to-purge-the-cache-of-mediawiki-pages/</guid>
+      <description>&lt;p&gt;WikiPurge is a JavaScript bookmarklet to purge the cache of a MediaWiki page.&lt;/p&gt;
+
+&lt;p&gt;Drag to your bookmark bar to install:&lt;/p&gt;
+
+&lt;p&gt;&lt;a onclick=&#34;alert(&#39;Drag it, don\&#39;t click it!&#39;);&#34; href=&#34;javascript:(function()%7Bvar%20currentUrl%20%3D%20window.location.href%3Bvar%20articleTitle%20%3D%20currentUrl.split(%22%2Fwiki%2F%22)%3Bconsole.log(articleTitle%5B1%5D)%3Bwindow.location%20%3D%20articleTitle%5B0%5D%20%2B%20%22%2Fwiki%2Findex.php%3Faction%3Dpurge%26title%3D%22%20%2B%20articleTitle%5B1%5D%7D)()&#34;&gt; For wikis with index.php located in /wiki/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a onclick=&#34;alert(&#39;Drag it, don\&#39;t click it!&#39;);&#34; href=&#34;javascript:(function()%7Bvar%20currentUrl%20%3D%20window.location.href%3Bvar%20articleTitle%20%3D%20currentUrl.split(%22%2Fw%2F%22)%3Bconsole.log(articleTitle%5B1%5D)%3Bwindow.location%20%3D%20articleTitle%5B0%5D%20%2B%20%22%2Fw%2Findex.php%3Faction%3Dpurge%26title%3D%22%20%2B%20articleTitle%5B1%5D%7D)()&#34;&gt; For wikis with index.php located in /w/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Why Super Mario Odyssey is going to be the game that revives sandbox platformers</title>
