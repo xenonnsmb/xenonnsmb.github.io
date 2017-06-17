@@ -6,8 +6,18 @@
     <description>Recent content in Post-rsses on xenonnsmb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2017 11:25:11 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jun 2017 12:00:36 -0500</lastBuildDate>
     <atom:link href="http://xenonnsmb.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test post</title>
+      <link>http://xenonnsmb.com/2017/06/17/test-post/</link>
+      <pubDate>Sat, 17 Jun 2017 12:00:36 -0500</pubDate>
+      
+      <guid>http://xenonnsmb.com/2017/06/17/test-post/</guid>
+      <description>&lt;p&gt;Hello there. This is a simple test post.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>WikiPurge - a bookmarklet to purge the cache of MediaWiki pages</title>
