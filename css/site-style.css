@@ -46,6 +46,8 @@ margin-top: -3px;
 	#footer {
 		text-align:center;
 		text-shadow: 0 2px 3px rgba(131,246,228,1);
+		font-size:10px;
+		
 	}
 	.backarrow {
 		position:relative;
