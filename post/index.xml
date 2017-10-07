@@ -6,8 +6,18 @@
     <description>Recent content in Post-rsses on xenonnsmb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2017 11:25:11 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2017 21:18:48 -0500</lastBuildDate>
     <atom:link href="http://xenonnsmb.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>I should write here more often</title>
+      <link>http://xenonnsmb.com/2017/10/06/i-should-write-here-more-often/</link>
+      <pubDate>Fri, 06 Oct 2017 21:18:48 -0500</pubDate>
+      
+      <guid>http://xenonnsmb.com/2017/10/06/i-should-write-here-more-often/</guid>
+      <description>&lt;p&gt;It seems like I never update this humble blog that I set up a couple months back. Probably because it&amp;rsquo;s somewhat of a chore to update this site. I like Hugo, though; I like writing things in Markdown, and I like having my own personal space to express myself rather than having some big company host it for me. At the same time, though, PHP based blogging platforms are much easier to update and probably look better than this stupid &amp;ldquo;console motif&amp;rdquo; I made back when I set up this site in 2015. I hate WordPress though, I don&amp;rsquo;t want to have to install &lt;i&gt;security updates&lt;/i&gt; for my f**king blog. Kuriblog? Write my own crappy code in PHP and watch it get hacked? Actually that&amp;rsquo;d be kinda interesting because then I&amp;rsquo;d know someone actually cares enough to hack me. If anybody is reading this send me a PM on Kuribo64 or something.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>WikiPurge - a bookmarklet to purge the cache of MediaWiki pages</title>
