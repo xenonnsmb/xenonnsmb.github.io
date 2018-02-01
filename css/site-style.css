@@ -1,65 +1,36 @@
-	@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
-	body{background-color:black;}
-	.pagetitle{
-	font-size: 50px;
-	font-family: 'Source Code Pro';
-	font-style: normal;
-	font-weight: 400;
-	color: white;
-	position: relative;
+body {
+	background-color: #1e1e1e;
+	color: #C9C9C9;
+	font-family: "Lato", sans-serif;
+}
+
+@media (min-width: 800px){
+	#page-container {
+	width:800px;
 	margin-left: auto;
 	margin-right: auto;
-	text-align: center;
-	top: 10%;
-	margin-top: -3px;
-	text-shadow: 0 0 10px rgba(131,246,228,1);
 }
-.pt-noshadow{
-font-size: 50px;
-font-family: 'Source Code Pro';
-font-style: normal;
-font-weight: 400;
-color: white;
-position: relative;
-margin-left: auto;
-margin-right: auto;
-text-align: center;
-top: 10%;
-margin-top: -3px;
+#page-container img {
+    width: 800px;
 }
-	@keyframes changeshadow {
-		from {text-shadow: 0 0 10px rgba(131,246,228,1);}
-		to {text-shadow: 0 10px 40px rgba(131,246,228,1);}
-	}
-.pagetitle:hover {
-	animation-name: changeshadow;
-	animation-duration: 0.5s;
-	animation-iteration-count:infinite;
-	animation-direction:alternate;
-    }
-	body {
-	font-family: 'Source Code Pro';
-	font-style: normal;
-	font-weight: 400;
-	color:white;
-	}
-	#footer {
-		text-align:center;
-		text-shadow: 0 2px 3px rgba(131,246,228,1);
-		font-size:10px;
-
-	}
-	.backarrow {
-		position:relative;
-		font-family:"Source Code Pro";
-	}
-
-	a {
-	font-family: 'Source Code Pro';
-	font-style: normal;
-	font-weight: 400;
-	color:skyblue;
-	}
-	.rssbutton {
-		background: url('data:image/svg+xml;base64,PHN2ZyBpZD0iaWNvbi1icm9hZGNhc3QiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTIwIDEyMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8Y2lyY2xlIGN4PSIxOC4zODUiIGN5PSIxMDEuNjE1IiByPSIxOC4zODUiLz4NCjxnPg0KCTxwYXRoIGQ9Ik0tMS4wMzEsNjFjMzIuNTMzLDAsNTksMjYuNDY4LDU5LDU5cy0yNi40NjcsNTktNTksNTlzLTU5LTI2LjQ2OC01OS01OVMtMzMuNTY0LDYxLTEuMDMxLDYxIE0tMS4wMzEsMzgNCgkJYy00NS4yODgsMC04MiwzNi43MTMtODIsODJzMzYuNzEyLDgyLDgyLDgyczgyLTM2LjcxMyw4Mi04MlM0NC4yNTcsMzgtMS4wMzEsMzhMLTEuMDMxLDM4eiIvPg0KPC9nPg0KPGc+DQoJPHBhdGggZD0iTTAuMTU0LDIzLjA0MWM1My4zNDksMCw5Ni43NSw0My40MDIsOTYuNzUsOTYuNzVzLTQzLjQwMiw5Ni43NS05Ni43NSw5Ni43NWMtNTMuMzQ4LDAtOTYuNzUtNDMuNDAyLTk2Ljc1LTk2Ljc1DQoJCVMtNTMuMTk0LDIzLjA0MSwwLjE1NCwyMy4wNDEgTTAuMTU0LDAuMDQxYy02Ni4xMzYsMC0xMTkuNzUsNTMuNjE1LTExOS43NSwxMTkuNzVzNTMuNjE0LDExOS43NSwxMTkuNzUsMTE5Ljc1DQoJCWM2Ni4xMzUsMCwxMTkuNzUtNTMuNjE1LDExOS43NS0xMTkuNzVTNjYuMjg5LDAuMDQxLDAuMTU0LDAuMDQxTDAuMTU0LDAuMDQxeiIvPg0KPC9nPg0KPC9zdmc+') no-repeat center center / 100%;
-	}
+}
+#page-container img {
+    width: 100%;
+}
+#mainpage-logo {
+	width:100%;
+}
+hr {
+	border-color: #413E3E;
+	background-color: #413E3E; /* cross-browser compatibility reeee */
+}
+#footer {
+	text-align:center;
+	font-size:x-small;
+}
+a {
+	color: #2796F3;
+}
+.censor {
+	filter: blur(2.5px);
+}

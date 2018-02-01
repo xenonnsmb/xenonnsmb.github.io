@@ -6,8 +6,18 @@
     <description>Recent content on xenonnsmb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2017 20:04:09 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2018 17:47:34 -0600</lastBuildDate>
     <atom:link href="http://xenonnsmb.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>I finally made my site look not terrible</title>
+      <link>http://xenonnsmb.com/2018/01/31/i-finally-made-my-site-look-not-terrible/</link>
+      <pubDate>Wed, 31 Jan 2018 17:47:34 -0600</pubDate>
+      
+      <guid>http://xenonnsmb.com/2018/01/31/i-finally-made-my-site-look-not-terrible/</guid>
+      <description>&lt;p&gt;I bought this domain name in 2014 and originally it didn&amp;rsquo;t have anything on it until I decided to point it to a GitHub Pages website. Originally I just made it by editing in an HTML editor and I decided to make everything be in a monospace font for some f&lt;span class=&#34;censor&#34;&gt;cc&lt;/span&gt;king reason (I think I wanted it to look like a terminal or something) but it mostly never had any content (unless you can call &lt;a href=&#34;http://xenonnsmb.com/emojify/&#34;&gt;this&lt;/a&gt; and &lt;a href=&#34;http://xenonnsmb.com/perispin/&#34;&gt;this&lt;/a&gt; content) until I came up with the brilliant idea to stick a Hugo blog here and make it be totally separated from the rest of the site by using a Hugo default theme and making only the blog be generated with Hugo. Eventually I realized that was a f&lt;span class=&#34;censor&#34;&gt;cc&lt;/span&gt;king stupid idea so I took my HTML from 2014, copy pasted Hugo magic words into it, and generated the whole site with it. But it still annoyed me because it didn&amp;rsquo;t look that good and because of this thing in Google search results:&lt;br&gt;&lt;br&gt;&lt;img src=&#34;http://xenonnsmb.com/img/mobilefriendly.png&#34; style=&#34;max-width:300px;&#34;&gt;&lt;br&gt;&lt;br&gt;But I never bothered to redesign it for a while because I never really write that much here anyway, but I wanna do it more and I feel like this place deserves better treatment than it gets. So here you go, now it actually looks readable and as a bonus I made it &amp;ldquo;responsive&amp;rdquo; by having everything be 600px max width on screens wider than 600px, and 100% width on screens smaller. Hopefully now it&amp;rsquo;s actually usable on mobile. I am aware that nobody else is ever going to care about this or read it but if you&amp;rsquo;re doing that right now then I guess you proved me wrong.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Quick thoughts on Pokémon Ultra Sun and Ultra Moon</title>
