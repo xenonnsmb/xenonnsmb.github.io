@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>xenonnsmb</title>
-    <link>http://xenonnsmb.com/index.xml</link>
+    <link>https://xenonnsmb.com/index.xml</link>
     <description>Recent content on xenonnsmb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 31 Jan 2018 17:47:34 -0600</lastBuildDate>
-    <atom:link href="http://xenonnsmb.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xenonnsmb.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>I finally made my site look not terrible</title>
-      <link>http://xenonnsmb.com/2018/01/31/i-finally-made-my-site-look-not-terrible/</link>
+      <link>https://xenonnsmb.com/2018/01/31/i-finally-made-my-site-look-not-terrible/</link>
       <pubDate>Wed, 31 Jan 2018 17:47:34 -0600</pubDate>
       
-      <guid>http://xenonnsmb.com/2018/01/31/i-finally-made-my-site-look-not-terrible/</guid>
-      <description>&lt;p&gt;I bought this domain name in 2014 and originally it didn&amp;rsquo;t have anything on it until I decided to point it to a GitHub Pages website. Originally I just made it by editing in an HTML editor and I decided to make everything be in a monospace font for some f&lt;span class=&#34;censor&#34;&gt;cc&lt;/span&gt;king reason (I think I wanted it to look like a terminal or something) but it mostly never had any content (unless you can call &lt;a href=&#34;http://xenonnsmb.com/emojify/&#34;&gt;this&lt;/a&gt; and &lt;a href=&#34;http://xenonnsmb.com/perispin/&#34;&gt;this&lt;/a&gt; content) until I came up with the brilliant idea to stick a Hugo blog here and make it be totally separated from the rest of the site by using a Hugo default theme and making only the blog be generated with Hugo. Eventually I realized that was a f&lt;span class=&#34;censor&#34;&gt;cc&lt;/span&gt;king stupid idea so I took my HTML from 2014, copy pasted Hugo magic words into it, and generated the whole site with it. But it still annoyed me because it didn&amp;rsquo;t look that good and because of this thing in Google search results:&lt;br&gt;&lt;br&gt;&lt;img src=&#34;http://xenonnsmb.com/img/mobilefriendly.png&#34; style=&#34;max-width:300px;&#34;&gt;&lt;br&gt;&lt;br&gt;But I never bothered to redesign it for a while because I never really write that much here anyway, but I wanna do it more and I feel like this place deserves better treatment than it gets. So here you go, now it actually looks readable and as a bonus I made it &amp;ldquo;responsive&amp;rdquo; by having everything be 600px max width on screens wider than 600px, and 100% width on screens smaller. Hopefully now it&amp;rsquo;s actually usable on mobile. I am aware that nobody else is ever going to care about this or read it but if you&amp;rsquo;re doing that right now then I guess you proved me wrong.&lt;/p&gt;
+      <guid>https://xenonnsmb.com/2018/01/31/i-finally-made-my-site-look-not-terrible/</guid>
+      <description>&lt;p&gt;I bought this domain name in 2014 and originally it didn&amp;rsquo;t have anything on it until I decided to point it to a GitHub Pages website. Originally I just made it by editing in an HTML editor and I decided to make everything be in a monospace font for some f&lt;span class=&#34;censor&#34;&gt;cc&lt;/span&gt;king reason (I think I wanted it to look like a terminal or something) but it mostly never had any content (unless you can call &lt;a href=&#34;https://xenonnsmb.com/emojify/&#34;&gt;this&lt;/a&gt; and &lt;a href=&#34;https://xenonnsmb.com/perispin/&#34;&gt;this&lt;/a&gt; content) until I came up with the brilliant idea to stick a Hugo blog here and make it be totally separated from the rest of the site by using a Hugo default theme and making only the blog be generated with Hugo. Eventually I realized that was a f&lt;span class=&#34;censor&#34;&gt;cc&lt;/span&gt;king stupid idea so I took my HTML from 2014, copy pasted Hugo magic words into it, and generated the whole site with it. But it still annoyed me because it didn&amp;rsquo;t look that good and because of this thing in Google search results:&lt;br&gt;&lt;br&gt;&lt;img src=&#34;https://xenonnsmb.com/img/mobilefriendly.png&#34; style=&#34;max-width:300px;&#34;&gt;&lt;br&gt;&lt;br&gt;But I never bothered to redesign it for a while because I never really write that much here anyway, but I wanna do it more and I feel like this place deserves better treatment than it gets. So here you go, now it actually looks readable and as a bonus I made it &amp;ldquo;responsive&amp;rdquo; by having everything be 600px max width on screens wider than 600px, and 100% width on screens smaller. Hopefully now it&amp;rsquo;s actually usable on mobile. I am aware that nobody else is ever going to care about this or read it but if you&amp;rsquo;re doing that right now then I guess you proved me wrong.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Quick thoughts on Pokémon Ultra Sun and Ultra Moon</title>
-      <link>http://xenonnsmb.com/2017/11/29/quick-thoughts-on-pok%C3%A9mon-ultra-sun-and-ultra-moon/</link>
+      <link>https://xenonnsmb.com/2017/11/29/quick-thoughts-on-pok%C3%A9mon-ultra-sun-and-ultra-moon/</link>
       <pubDate>Wed, 29 Nov 2017 20:04:09 -0600</pubDate>
       
-      <guid>http://xenonnsmb.com/2017/11/29/quick-thoughts-on-pok%C3%A9mon-ultra-sun-and-ultra-moon/</guid>
+      <guid>https://xenonnsmb.com/2017/11/29/quick-thoughts-on-pok%C3%A9mon-ultra-sun-and-ultra-moon/</guid>
       <description>&lt;p&gt;(Mild spoilers for US/UM ahead.)&lt;br&gt;&lt;br&gt;
 If you bought Sun or Moon and enjoyed it, and you aren&amp;rsquo;t the biggest fan of Pokémon, you probably won&amp;rsquo;t care to come back for seconds. Ultra Sun and Ultra Moon make some good changes, but they make them right near the end of the game, and for the majority of your story experience, you&amp;rsquo;ll be playing the same game.
 Of course, this won&amp;rsquo;t bother you at all if you missed out on SM, and if you did, you should get US/UM, because these are the definitive versions of the games. They made some changes that I didn&amp;rsquo;t particularly like, such as making there be an unlimited number of each Ultra Beast to catch, but most of the changes, especially related to the Aether Foundation and Ultra Recon Squad, are good and enhance the game.
@@ -36,10 +36,10 @@ In closing, Pokémon Ultra Sun and Ultra Moon are nice sidegames. They provide a
     
     <item>
       <title>R.I.P Miiverse</title>
-      <link>http://xenonnsmb.com/2017/11/06/r.i.p-miiverse/</link>
+      <link>https://xenonnsmb.com/2017/11/06/r.i.p-miiverse/</link>
       <pubDate>Mon, 06 Nov 2017 20:08:50 -0600</pubDate>
       
-      <guid>http://xenonnsmb.com/2017/11/06/r.i.p-miiverse/</guid>
+      <guid>https://xenonnsmb.com/2017/11/06/r.i.p-miiverse/</guid>
       <description>&lt;p&gt;Miiverse&amp;rsquo;s legacy shall live on in the form of the &amp;ldquo;Not-Miiverse&amp;rdquo; in Splatoon 2, and the new Twitter/Facebook posting feature on the Switch. But it&amp;rsquo;s still sad to see something just die like this.&lt;/p&gt;
 
 &lt;p&gt;Miiverse was a weird amalgamation of Internet culture that Nintendo haplessly tried to moderate and failed spectacularly at, leading to memes, confused little kids, and the stupid experiences I loved.&lt;/p&gt;
@@ -51,34 +51,34 @@ In closing, Pokémon Ultra Sun and Ultra Moon are nice sidegames. They provide a
 &lt;p&gt;R.I.P.&lt;/p&gt;
 
 &lt;p&gt;And now, a gallery of some of the stupidest, weirdest, and coolest things I ever posted.&lt;br&gt;
-&lt;br&gt;&lt;img src=&#34;http://xenonnsmb.com/img/ssb4.png&#34; /&gt;
-&lt;br&gt;&lt;img src=&#34;http://xenonnsmb.com/img/zomg.png&#34; /&gt;
-&lt;br&gt;&lt;img src=&#34;http://xenonnsmb.com/img/allnight.png&#34; /&gt;
-&lt;br&gt;&lt;img src=&#34;http://xenonnsmb.com/img/oob.png&#34; /&gt;
-&lt;br&gt;&lt;img src=&#34;http://xenonnsmb.com/img/life.png&#34; /&gt;
-&lt;br&gt;&lt;img src=&#34;http://xenonnsmb.com/img/yeah.png&#34; /&gt;&lt;/p&gt;
+&lt;br&gt;&lt;img src=&#34;https://xenonnsmb.com/img/ssb4.png&#34; /&gt;
+&lt;br&gt;&lt;img src=&#34;https://xenonnsmb.com/img/zomg.png&#34; /&gt;
+&lt;br&gt;&lt;img src=&#34;https://xenonnsmb.com/img/allnight.png&#34; /&gt;
+&lt;br&gt;&lt;img src=&#34;https://xenonnsmb.com/img/oob.png&#34; /&gt;
+&lt;br&gt;&lt;img src=&#34;https://xenonnsmb.com/img/life.png&#34; /&gt;
+&lt;br&gt;&lt;img src=&#34;https://xenonnsmb.com/img/yeah.png&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;And, my very first post, from the day I got my Wii U.
-&lt;br&gt;&lt;br&gt;&lt;img src=&#34;http://xenonnsmb.com/img/robot.png&#34; /&gt;&lt;/p&gt;
+&lt;br&gt;&lt;br&gt;&lt;img src=&#34;https://xenonnsmb.com/img/robot.png&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>I should write here more often</title>
-      <link>http://xenonnsmb.com/2017/10/06/i-should-write-here-more-often/</link>
+      <link>https://xenonnsmb.com/2017/10/06/i-should-write-here-more-often/</link>
       <pubDate>Fri, 06 Oct 2017 21:18:48 -0500</pubDate>
       
-      <guid>http://xenonnsmb.com/2017/10/06/i-should-write-here-more-often/</guid>
+      <guid>https://xenonnsmb.com/2017/10/06/i-should-write-here-more-often/</guid>
       <description>&lt;p&gt;It seems like I never update this humble blog that I set up a couple months back. Probably because it&amp;rsquo;s somewhat of a chore to update this site. I like Hugo, though; I like writing things in Markdown, and I like having my own personal space to express myself rather than having some big company host it for me. At the same time, though, PHP based blogging platforms are much easier to update and probably look better than this stupid &amp;ldquo;console motif&amp;rdquo; I made back when I set up this site in 2015. I hate WordPress though, I don&amp;rsquo;t want to have to install &lt;i&gt;security updates&lt;/i&gt; for my f**king blog. Kuriblog? Write my own crappy code in PHP and watch it get hacked? Actually that&amp;rsquo;d be kinda interesting because then I&amp;rsquo;d know someone actually cares enough to hack me. If anybody is reading this send me a PM on Kuribo64 or something.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>WikiPurge - a bookmarklet to purge the cache of MediaWiki pages</title>
-      <link>http://xenonnsmb.com/2017/06/17/wikipurge---a-bookmarklet-to-purge-the-cache-of-mediawiki-pages/</link>
+      <link>https://xenonnsmb.com/2017/06/17/wikipurge---a-bookmarklet-to-purge-the-cache-of-mediawiki-pages/</link>
       <pubDate>Sat, 17 Jun 2017 11:25:11 -0500</pubDate>
       
-      <guid>http://xenonnsmb.com/2017/06/17/wikipurge---a-bookmarklet-to-purge-the-cache-of-mediawiki-pages/</guid>
+      <guid>https://xenonnsmb.com/2017/06/17/wikipurge---a-bookmarklet-to-purge-the-cache-of-mediawiki-pages/</guid>
       <description>&lt;p&gt;WikiPurge is a JavaScript bookmarklet to purge the cache of a MediaWiki page.&lt;/p&gt;
 
 &lt;p&gt;Drag to your bookmark bar to install:&lt;/p&gt;
@@ -91,10 +91,10 @@ In closing, Pokémon Ultra Sun and Ultra Moon are nice sidegames. They provide a
     
     <item>
       <title>Why Super Mario Odyssey is going to be the game that revives sandbox platformers</title>
-      <link>http://xenonnsmb.com/2017/06/15/why-super-mario-odyssey-is-going-to-be-the-game-that-revives-sandbox-platformers/</link>
+      <link>https://xenonnsmb.com/2017/06/15/why-super-mario-odyssey-is-going-to-be-the-game-that-revives-sandbox-platformers/</link>
       <pubDate>Thu, 15 Jun 2017 12:23:49 -0500</pubDate>
       
-      <guid>http://xenonnsmb.com/2017/06/15/why-super-mario-odyssey-is-going-to-be-the-game-that-revives-sandbox-platformers/</guid>
+      <guid>https://xenonnsmb.com/2017/06/15/why-super-mario-odyssey-is-going-to-be-the-game-that-revives-sandbox-platformers/</guid>
       <description>&lt;p&gt;In 1996, Nintendo released the &lt;s&gt;Ultra 64&lt;/s&gt; Nintendo 64, and alongside it came Super Mario 64, a revolutionary game. It threw you into a world filled with smaller worlds, each one an open sandbox with tons of things to do in any order. There were hidden missions, 100-coin stars, and lots more. It was amazing.&lt;/p&gt;
 
 &lt;p&gt;Then Super Mario Sunshine refined the level design. It shifted the focus. You no longer had the ability to do things the way you wanted; everything had a linear order to follow. You had to collect the &amp;ldquo;Shine Sprites&amp;rdquo; in the order the game wanted you to. But it gave you more freedom in how to approach the levels, with more moves and a super-cool water jetpack. Galaxy and Galaxy 2 completed the linear transition by turning each level into a series of loosely connected planets, preventing you from returning after continuing on. That isn&amp;rsquo;t an inherently bad thing, and it allowed for more story than previous games.&lt;/p&gt;
@@ -113,10 +113,10 @@ In closing, Pokémon Ultra Sun and Ultra Moon are nice sidegames. They provide a
     
     <item>
       <title>On Pokémon Prism, and fan-made ROM hacks</title>
-      <link>http://xenonnsmb.com/2016/12/22/on-pok%C3%A9mon-prism-and-fan-made-rom-hacks/</link>
+      <link>https://xenonnsmb.com/2016/12/22/on-pok%C3%A9mon-prism-and-fan-made-rom-hacks/</link>
       <pubDate>Thu, 22 Dec 2016 10:16:09 -0600</pubDate>
       
-      <guid>http://xenonnsmb.com/2016/12/22/on-pok%C3%A9mon-prism-and-fan-made-rom-hacks/</guid>
+      <guid>https://xenonnsmb.com/2016/12/22/on-pok%C3%A9mon-prism-and-fan-made-rom-hacks/</guid>
       <description>
 
 &lt;h1 id=&#34;what-happened&#34;&gt;What happened?&lt;/h1&gt;
@@ -134,7 +134,7 @@ In closing, Pokémon Ultra Sun and Ultra Moon are nice sidegames. They provide a
 &lt;p&gt;Even though Nintendo has every right to do this, that doesn&amp;rsquo;t change the fact that it&amp;rsquo;s anti-consumer. Countless other companies are fine with modding or hacking, and some of them even embrace it (like Valve. Most of their franchises are Half-Life mods that they bought and remade.) Nintendo may make great games, but they sure have a thing for destroying people&amp;rsquo;s work. If you look at other fangames that they took down, like Another Metroid 2 Remake, it makes sense because Metroid 2 is still a game Nintendo&amp;rsquo;s selling on the eShop. But games like Uranium and Prism aren&amp;rsquo;t hurting Nintendo&amp;rsquo;s sales, they aren&amp;rsquo;t painting Nintendo in a negative light, so why does Nintendo always do this? Now all of the dev team&amp;rsquo;s work was for nothing.&lt;/p&gt;
 
 &lt;p&gt;&amp;hellip;Oh, who am I kidding. The source code already leaked online.
-&lt;img src=&#34;http://xenonnsmb.com/blog/img/prism2.png&#34; title=&#34;Pokémon Prism on OpenEmu&#34; alt=&#34;Pokémon Prism title screen&#34; width=&#34;95%&#34; height=&#34;95%&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://xenonnsmb.com/blog/img/prism2.png&#34; title=&#34;Pokémon Prism on OpenEmu&#34; alt=&#34;Pokémon Prism title screen&#34; width=&#34;95%&#34; height=&#34;95%&#34;&gt;&lt;/p&gt;
 
 &lt;h6 id=&#34;this-is-an-opinion-piece-if-you-do-not-agree-it-s-not-the-end-of-the-world&#34;&gt;This is an opinion piece. If you do not agree it&amp;rsquo;s not the end of the world.&lt;/h6&gt;
 </description>
@@ -142,20 +142,20 @@ In closing, Pokémon Ultra Sun and Ultra Moon are nice sidegames. They provide a
     
     <item>
       <title>Hello, world!</title>
-      <link>http://xenonnsmb.com/2016/12/03/hello-world/</link>
+      <link>https://xenonnsmb.com/2016/12/03/hello-world/</link>
       <pubDate>Sat, 03 Dec 2016 21:18:57 -0600</pubDate>
       
-      <guid>http://xenonnsmb.com/2016/12/03/hello-world/</guid>
+      <guid>https://xenonnsmb.com/2016/12/03/hello-world/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Welcome to my blog.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>archive</title>
-      <link>http://xenonnsmb.com/archive/</link>
+      <link>https://xenonnsmb.com/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://xenonnsmb.com/archive/</guid>
+      <guid>https://xenonnsmb.com/archive/</guid>
       <description></description>
     </item>
     
